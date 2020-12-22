@@ -1,4 +1,4 @@
-CS224N
+CS224n (Winter 2019) - NLP with deep learning
 
 https://doremi.oopy.io/cs224n
 
